@@ -24,7 +24,7 @@ const Footer = () => {
               <h4 className="text-lg font-semibold text-white mb-6">Contato</h4>
               <div className="space-y-4">
                 <a 
-                  href="https://wa.me/5500000000000" 
+                  href="https://wa.me/5511930500397&text=Olá%21+Vim+pelo+site+e+gostaria+de+mais+informações+sobre+as+listas+de+contatos." 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 text-gray-300 hover:text-brand-purple transition-colors"
@@ -33,11 +33,11 @@ const Footer = () => {
                   <span>(00) 00000-0000</span>
                 </a>
                 <a 
-                  href="mailto:contato@ajudoseunegocio.com.br" 
+                  href="mailto:b2b@ajudoseunegocio.com" 
                   className="flex items-center gap-3 text-gray-300 hover:text-brand-purple transition-colors"
                 >
                   <Mail className="h-5 w-5 text-brand-blue" />
-                  <span>contato@ajudoseunegocio.com.br</span>
+                  <span>contato@ajudoseunegocio.com</span>
                 </a>
               </div>
             </div>
@@ -47,9 +47,8 @@ const Footer = () => {
             <div>
               <h4 className="text-lg font-semibold text-white mb-6">Horário de Atendimento</h4>
               <div className="space-y-2 text-gray-300">
-                <p>Segunda a Sexta: 09h às 18h</p>
-                <p>Sábados: 09h às 13h</p>
-                <p>Domingos e Feriados: Fechado</p>
+                <p>Segunda a Domingo</p>
+                <p>atendimento 24 horas</p>                
               </div>
             </div>
           </ScrollReveal>
@@ -59,7 +58,7 @@ const Footer = () => {
               <h4 className="text-lg font-semibold text-white mb-6">Siga-nos</h4>
               <div className="flex gap-4">
                 <a 
-                  href="https://instagram.com/ajudoseunegocio" 
+                  href="https://instagram.com/ajudo_seu_negocio" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="h-10 w-10 rounded-full bg-brand-purple/20 flex items-center justify-center hover:bg-brand-purple/40 transition-colors"
@@ -75,7 +74,7 @@ const Footer = () => {
                   <Facebook className="h-5 w-5 text-white" />
                 </a>
                 <a 
-                  href="https://wa.me/5500000000000" 
+                  href="https://wa.me/5511930500397&text=Olá%21+Vim+pelo+site+e+gostaria+de+mais+informações+sobre+as+listas+de+contatos." 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="h-10 w-10 rounded-full bg-green-500/20 flex items-center justify-center hover:bg-green-500/40 transition-colors"

@@ -1,5 +1,5 @@
 
-import { Phone, Mail, Instagram, Facebook, Whatsapp } from 'lucide-react';
+import { Phone, Mail, Instagram, Facebook, MessageCircle } from 'lucide-react';
 import ScrollReveal from './ScrollReveal';
 
 const Footer = () => {
@@ -29,7 +29,7 @@ const Footer = () => {
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 text-gray-300 hover:text-brand-purple transition-colors"
                 >
-                  <Whatsapp className="h-5 w-5 text-green-500" />
+                  <MessageCircle className="h-5 w-5 text-green-500" />
                   <span>(00) 00000-0000</span>
                 </a>
                 <a 
@@ -80,7 +80,7 @@ const Footer = () => {
                   rel="noopener noreferrer"
                   className="h-10 w-10 rounded-full bg-green-500/20 flex items-center justify-center hover:bg-green-500/40 transition-colors"
                 >
-                  <Whatsapp className="h-5 w-5 text-white" />
+                  <MessageCircle className="h-5 w-5 text-white" />
                 </a>
               </div>
             </div>

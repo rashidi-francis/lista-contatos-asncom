@@ -1,6 +1,6 @@
 
 import { useState, useEffect } from 'react';
-import { Whatsapp } from 'lucide-react';
+import { MessageCircle } from 'lucide-react';
 
 const WhatsappButton = () => {
   const [isVisible, setIsVisible] = useState(false);
@@ -40,7 +40,7 @@ const WhatsappButton = () => {
         ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10 pointer-events-none'}
         ${isPulsing ? 'animate-pulse-neon' : ''}`}
     >
-      <Whatsapp className="h-7 w-7 text-white" />
+      <MessageCircle className="h-7 w-7 text-white" />
     </a>
   );
 };

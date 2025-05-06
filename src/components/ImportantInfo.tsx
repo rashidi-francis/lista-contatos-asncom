@@ -34,7 +34,7 @@ const testimonials = [
     name: "João Silva",
     company: "Imobiliária Capital",
     testimonial: "As listas segmentadas por região e renda foram fundamentais para nosso crescimento. Conseguimos fechar 3 vendas de imóveis no primeiro mês de uso.",
-    image: "/img-testimonials/joao.webp"
+    image: <img src="/img-testimonials/joao.webp" alt="Depoimento1" />
   },
   {
     name: "Mariana Costa",

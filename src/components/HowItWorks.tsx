@@ -6,12 +6,12 @@ import ScrollReveal from './ScrollReveal';
 const features = [
   {
     title: "Segmentação Geográfica",
-    description: "Segmentamos por região, estado, cidade ou bairro específico para direcionar suas campanhas com precisão.",
+    description: "Segmentamos por região, estado, cidade ou bairro específico para direcionar suas campanhas com maior precisão.",
     icon: "📍",
   },
   {
     title: "Tipos de Contatos",
-    description: "Entregamos listas de pessoas físicas ou jurídicas de acordo com a necessidade do seu negócio.",
+    description: "Entregamos listas de Clientes ou empresas de acordo com a necessidade do seu negócio.",
     icon: "👥",
   },
   {
@@ -21,7 +21,7 @@ const features = [
   },
   {
     title: "Entrega Rápida",
-    description: "Dados enviados por email em até 1 hora após a confirmação do pagamento.",
+    description: "Dados enviados por email em até 1 hora ou até 5 horas no máximo após a confirmação do pagamento.",
     icon: "⚡",
   }
 ];

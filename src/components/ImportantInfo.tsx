@@ -23,9 +23,9 @@ const features = [
 ];
 
 const additionalInfo = [
-  "Não é possível filtrar por gênero ou idade",
-  "Possível segmentação indireta por tipo de atividade (ex: salão de beleza → maior chance de mulheres)",
-  "Serviços pesados, mecânica, etc - maior chance de contatos homens",
+  "Não é possível filtrar por gênero ou idade. Caso queira pessoas mais velhas por exemplo, tente segmentar por renda alta",
+  "Segmentamos também por região, profissão, nicho setor de trabalho, indústria etc tipo de atividade (ex: donas de salão de beleza, enfermagem, confeitaria, etc  → maior chance/probablidade de vir contato de mulheres)",
+  "Serviços pesados, eletricidade, mecânica, construção etc - maior chance/probablidade de vir contatos de homens",
   "Exemplo: cliente quer pessoas de 40 anos para cima - filtramos por renda maior, que tem mais chance de pessoas mais velhas"
 ];
 
@@ -34,19 +34,19 @@ const testimonials = [
     name: "João Silva",
     company: "Imobiliária Capital",
     testimonial: "As listas segmentadas por região e renda foram fundamentais para nosso crescimento. Conseguimos fechar 3 vendas de imóveis no primeiro mês de uso.",
-    image: "/placeholder.svg"
+    image: "/img-testimonials/joao.webp"
   },
   {
     name: "Mariana Costa",
     company: "Consultoria Financeira MC",
     testimonial: "A qualidade dos contatos é impressionante. Economizamos tempo e recursos significativos na prospecção de clientes.",
-    image: "/placeholder.svg"
+    image: "rashidi-francis/lista-contatos-asncom/public/img-testimonials/mariana.webp"
   },
   {
     name: "Carlos Mendes",
     company: "Supply Tech",
     testimonial: "Utilizamos para encontrar fornecedores em regiões específicas. O retorno foi muito acima do esperado com contatos realmente úteis.",
-    image: "/placeholder.svg"
+    image: "/public/img-testimonials/carlos.webp"
   }
 ];
 

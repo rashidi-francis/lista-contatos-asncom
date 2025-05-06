@@ -34,19 +34,19 @@ const testimonials = [
     name: "João Silva",
     company: "Imobiliária Capital",
     testimonial: "As listas segmentadas por região e renda foram fundamentais para nosso crescimento. Conseguimos fechar 3 vendas de imóveis no primeiro mês de uso.",
-    image: <img src="/img-testimonials/joao.webp" alt="Depoimento1" />
+    image: <img src="/img-testimonials/joao.webp" alt="Depoimento1" className="w-10 h-10 rounded-full" /> />
   },
   {
     name: "Mariana Costa",
     company: "Consultoria Financeira MC",
     testimonial: "A qualidade dos contatos é impressionante. Economizamos tempo e recursos significativos na prospecção de clientes.",
-    image: <img src="/img-testimonials/mariana.webp" alt="Depoimento2" />
+    image: <img src="/img-testimonials/mariana.webp" alt="Depoimento2" className="w-10 h-10 rounded-full" /> />
   },
   {
     name: "Carlos Mendes",
     company: "Supply Tech",
     testimonial: "Utilizamos para encontrar fornecedores em regiões específicas. O retorno foi muito acima do esperado com contatos realmente úteis.",
-    image: <img src="/img-testimonials/carlos.webp" alt="Depoimento3" />
+    image: <img src="/img-testimonials/carlos.webp" alt="Depoimento3" className="w-10 h-10 rounded-full" /> />
   }
 ];
 

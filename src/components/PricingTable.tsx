@@ -29,7 +29,7 @@ const PricingTable = () => {
             <span className="neon-text">Preços</span>
           </h2>
           <p className="text-gray-300 text-center max-w-3xl mx-auto mb-12">
-            Escolha o plano que melhor se adapta às suas necessidades de prospecção
+            Escolha a quantidade de contatos segmentados que vamos enviar para você ainda hoje em seu email. Veja qual melhor se adapta às suas necessidades de prospecção
           </p>
         </ScrollReveal>
 
@@ -45,7 +45,7 @@ const PricingTable = () => {
                 </div>
                 <Button 
                   className="whatsapp-button w-full flex items-center justify-center gap-2" 
-                  onClick={() => window.open(`https://wa.me/5500000000000?text=Olá! Tenho interesse no plano de ${plan.contacts} contatos por R$${plan.price}.`, "_blank")}
+                  onClick={() => window.open(`https://api.whatsapp.com/send/?phone=5511930500397&text=Olá! Quero comprar essa quantidade de ${plan.contacts} contatos por R$${plan.price}.`, "_blank")}
                 >
                   <span>Comprar no WhatsApp</span>
                   <ArrowRight className="h-5 w-5" />

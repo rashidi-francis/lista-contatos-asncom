@@ -12,7 +12,7 @@ const ConsultingSection = () => {
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
               <span className="text-white">Quer uma </span>
               <span className="neon-text">consultoria de marketing digital</span>
-              <span className="text-white"> para o seu negócio?</span>
+              <span className="text-white"> focada no seu negócio?</span>
             </h2>
             <p className="text-gray-300 text-xl">
               Acesse agora mesmo: <a href="https://www.ajudoseunegocio.com.br" target="_blank" rel="noopener noreferrer" className="text-brand-blue hover:underline">www.ajudoseunegocio.com.br</a>
@@ -21,7 +21,7 @@ const ConsultingSection = () => {
 
           <div className="text-center mb-8">
             <p className="text-gray-200 text-lg">
-              Fazer consultoria de marketing digital para seu negócio agora, clique no botão abaixo
+              Fazer consultoria de marketing digital com foco crescimento do seu negócio agora, clique no botão abaixo
             </p>
           </div>
 

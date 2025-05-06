@@ -24,7 +24,7 @@ const Footer = () => {
               <h4 className="text-lg font-semibold text-white mb-6">Contato</h4>
               <div className="space-y-4">
                 <a 
-                  href="https://api.whatsapp.com/send/?phone=5511930500397&text=Olá%21+Vim+pelo+site+e+gostaria+de+mais+informações+sobre+as+listas+de+contatos." 
+                  href="https://api.whatsapp.com/send/?phone=5511930500397&text=Olá%21+Vim+pelo+site+e+gostaria+adquirir+uma+lista+de+contatos+segmentada." 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 text-gray-300 hover:text-brand-purple transition-colors"
@@ -74,7 +74,7 @@ const Footer = () => {
                   <Facebook className="h-5 w-5 text-white" />
                 </a>
                 <a 
-                  href="https://api.whatsapp.com/send/?phone=5511930500397&text=Olá%21+Vim+pelo+site+e+gostaria+de+mais+informações+sobre+as+listas+de+contatos." 
+                  href="https://api.whatsapp.com/send/?phone=5511930500397&text=Olá%21+Vim+pelo+site+e+gostaria+adquirir+uma+lista+de+contatos+segmentada." 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="h-10 w-10 rounded-full bg-green-500/20 flex items-center justify-center hover:bg-green-500/40 transition-colors"

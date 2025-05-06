@@ -18,11 +18,11 @@ const HeroSection = () => {
             <span className="neon-text"> Negócio</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-200 max-w-3xl mx-auto mb-10">
-            Especialistas na entrega rápida de listas de contatos segmentadas para empresas, vendedores e profissionais que precisam encontrar o público certo.
+            Você precisa vender mais, fechar mais negócios, prospectar mais? Você está no lugar certo! Somos Especialistas na entrega rápida de listas de contatos segmentadas para empresas, vendedores e profissionais b2b que precisam encontrar o público alvo certo.
           </p>
           <Button
             className="neon-button animate-pulse-neon group text-lg"
-            onClick={() => window.open("https://wa.me/5500000000000", "_blank")}
+            onClick={() => window.open("https://api.whatsapp.com/send/?phone=5511930500397&text=Olá%21+Vim+pelo+site+e+gostaria+adquirir+uma+lista+de+contatos+segmentada.", "_blank")}
           >
             Falar no WhatsApp
             <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />

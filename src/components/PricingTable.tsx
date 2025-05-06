@@ -45,7 +45,7 @@ const PricingTable = () => {
                 </div>
                 <Button 
                   className="whatsapp-button w-full flex items-center justify-center gap-2" 
-                  onClick={() => window.open(`https://api.whatsapp.com/send/?phone=5511930500397&text=Olá! Quero comprar essa quantidade de ${plan.contacts} contatos por R$${plan.price}.`, "_blank")}
+                  onClick={() => window.open(`https://api.whatsapp.com/send/?phone=5511930500397&text=Olá! Quero comprar essa quantidade de ${plan.contacts} contatos segmentados por R$${plan.price}.`, "_blank")}
                 >
                   <span>Comprar no WhatsApp</span>
                   <ArrowRight className="h-5 w-5" />

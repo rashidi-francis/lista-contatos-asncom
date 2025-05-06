@@ -56,7 +56,7 @@ const Navbar = () => {
             ))}
             <Button
               className="neon-button text-sm"
-              onClick={() => window.open("https://wa.me/5500000000000", "_blank")}
+              onClick={() => window.open("https://api.whatsapp.com/send/?phone=5511930500397&text=Olá%21+Vim+pelo+site+e+gostaria+adquirir+uma+lista+de+contatos+segmentada.", "_blank")}
             >
               Falar no WhatsApp
             </Button>
@@ -100,7 +100,7 @@ const Navbar = () => {
           <Button
             className="neon-button w-full mt-4"
             onClick={() => {
-              window.open("https://wa.me/5500000000000", "_blank");
+              window.open("https://api.whatsapp.com/send/?phone=5511930500397&text=Olá%21+Vim+pelo+site+e+gostaria+adquirir+uma+lista+de+contatos+segmentada.", "_blank");
               setMobileMenuOpen(false);
             }}
           >

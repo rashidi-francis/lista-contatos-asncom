@@ -32,7 +32,7 @@ const WhatsappButton = () => {
 
   return (
     <a
-      href="https://wa.me/5500000000000?text=Olá! Vim pelo site e gostaria de mais informações sobre as listas de contatos."
+      href="https://api.whatsapp.com/send/?phone=5511930500397&text=Olá%21+Vim+pelo+site+e+gostaria+adquirir+uma+lista+de+contatos+segmentada."
       target="_blank"
       rel="noopener noreferrer"
       className={`fixed bottom-8 right-8 z-50 bg-green-500 h-14 w-14 rounded-full flex items-center justify-center shadow-lg

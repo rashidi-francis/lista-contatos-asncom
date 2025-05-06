@@ -40,13 +40,13 @@ const testimonials = [
     name: "Mariana Costa",
     company: "Consultoria Financeira MC",
     testimonial: "A qualidade dos contatos é impressionante. Economizamos tempo e recursos significativos na prospecção de clientes.",
-    image: "rashidi-francis/lista-contatos-asncom/public/img-testimonials/mariana.webp"
+    image: <img src="/img-testimonials/mariana.webp" alt="Depoimento2" />
   },
   {
     name: "Carlos Mendes",
     company: "Supply Tech",
     testimonial: "Utilizamos para encontrar fornecedores em regiões específicas. O retorno foi muito acima do esperado com contatos realmente úteis.",
-    image: "/public/img-testimonials/carlos.webp"
+    image: <img src="/img-testimonials/carlos.webp" alt="Depoimento3" />
   }
 ];
 

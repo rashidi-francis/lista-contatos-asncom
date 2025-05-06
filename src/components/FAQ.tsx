@@ -43,23 +43,27 @@ const FAQs = [
   },
   {
     question: "Como recebo minha lista?",
-    answer: "Após a confirmação do pagamento, você receberá sua lista de contatos em formato Excel (.xlsx) por e-mail em até 1 hora."
+    answer: "Após a confirmação do pagamento, você receberá sua lista de contatos em formato Excel, direto no seu email da GMAIL (.xlsx) por e-mail em até 1 hora."
   },
   {
     question: "Quanto tempo leva?",
-    answer: "O prazo de entrega é de até 1 hora após a confirmação do pagamento."
+    answer: "O prazo de entrega da lista é de 1 hora até 5 horas no máximo após a confirmação do pagamento."
+  },
+  {
+    question: "Posso filtrar por Gênero? Exemplo quero somente contatos mulheres ou homens",
+    answer: "Filtro unisex, nao da pra separar por gênero nem faixa etária. O que podemos fazer é tentar ir buscar contatos de pessoas mais relacionadas a uma atividade pra ter mais chances, por exemplo vc deseja contatos apenas de mulheres, então a gente pode tentar buscar contatos de : donas de salao de manicure, unhas, cabelereiro, etc. pois teremos ai mais possibilidades de ter contatos de mulher que homem. Caso deseje o contrario tipo contatos de Homens apenas, então a gente pode tentar buscar contatos de : Donos de oficinas mecanicas, eletricistas, maquinistas, camioneiros , etc pois teremos ai mais possibilidades de ter contatos de homem que mulher."
   },
   {
     question: "Posso filtrar por pessoas que gostam de X ou querem comprar Y?",
     answer: (
       <div>
         <p className="mb-4">
-          Não. Não entregamos listas com base em gostos pessoais ou intenções específicas, como "pessoas que querem comprar apartamento", "gostam de consórcio", etc.
+          Não. Não entregamos listas com base em gostos pessoais ou intenções específicas, como por exemplo: "quero pessoas que querem comprar apartamento", "pessoas que querem abrir empresa", "pessoas que estao inscritas no INSS" ou coisas tipo: "quero pessoas que gostam de fazer consórcio", etc.
         </p>
         <p className="bg-brand-red/10 border border-brand-red/30 p-4 rounded-lg flex items-start gap-2">
           <span className="text-brand-red font-bold text-lg">⚠️</span>
           <span>
-            Importante: Trabalhamos apenas com dados demográficos e geográficos, não com preferências pessoais ou intenções de compra.
+            Lembrete: Tenha responsabilidade individual ao usar essas listas pois nossas listas são para ajudar empreendedores e vendedores a crescerem seus negócios, suas vendas. Em casos específicos como mencionado acima, tente segmentar por renda alta, e por regiões específicas, para tentar obter melhores resultaos possíveis. Trabalhamos apenas com dados demográficos, renda e dados geográficos, não com preferências pessoais ou intenções de compra.
           </span>
         </p>
       </div>

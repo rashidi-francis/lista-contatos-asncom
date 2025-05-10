@@ -18,7 +18,7 @@ const HeroSection = () => {
             <span className="neon-text"> Negócio</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-200 max-w-3xl mx-auto mb-10">
-            Você precisa vender mais, fechar mais negócios, prospectar mais? Você está no lugar certo! Somos Especialistas na entrega rápida de listas de contatos segmentadas para empresas, vendedores, clientes e profissionais b2b que precisam encontrar o público alvo certo.
+            Você precisa vender mais, fechar mais negócios, prospectar mais? Você está no lugar certo! Somos Especialistas à 13anos na entrega rápida de listas de contatos segmentadas para empresas, vendedores, clientes e profissionais b2b no Brasil todo, que precisam encontrar o público alvo certo.
           </p>
           <Button
             className="neon-button animate-pulse-neon group text-lg"

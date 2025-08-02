@@ -5,3 +5,4 @@ Sitemap: https://ajudoseunegocio.com/companysitemap.xml
 
 Allow: /onde-comprar-lista-de-contatos
 Allow: /lista-contatos-whatsapp-renda
+Allow: /lista-contatos-empresas-nicho

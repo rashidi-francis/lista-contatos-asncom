@@ -7,3 +7,4 @@ Allow: /onde-comprar-lista-de-contatos
 Allow: /lista-contatos-whatsapp-renda
 Allow: /lista-contatos-empresas-nicho
 Allow: /lista-contatos-clientes-potencial-compra
+Allow: /lista-contatos-whatsapp-marketing-empreendedores

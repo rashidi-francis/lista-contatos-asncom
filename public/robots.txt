@@ -9,3 +9,4 @@ Allow: /lista-contatos-empresas-nicho
 Allow: /lista-contatos-clientes-potencial-compra
 Allow: /lista-contatos-whatsapp-marketing-empreendedores
 Allow: /lista-contatos-b2b-empresas-segmento-regiao
+Allow: /como-conseguir-lista-contatos-qualificada-vendas

@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ajudoseunegocio.com/sitemap.xml
+
+# Páginas de conteúdo
+Allow: /
+Allow: /como-conseguir-lista-contatos-qualificada-vendas.html
+Allow: /lista-contatos-b2b-empresas-segmento-regiao.html
+Allow: /lista-contatos-clientes-potencial-compra.html
+Allow: /lista-contatos-whatsapp-marketing-empreendedores.html
+Allow: /lista-contatos-whatsapp-renda.html
+Allow: /onde-comprar-lista-de-contatos.html
+Allow: /lista-contatos-empresas-nicho.html
